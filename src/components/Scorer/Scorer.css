@@ -1,0 +1,17 @@
+.Yert{
+	width: 100%;
+	background-color: pink;
+}
+
+.panel-body{
+	text-align: center;
+}
+.panel-primary{
+	width: 100%;
+}
+
+.textScore {
+	font-weight: bold;
+	font-size: 25px;
+	font-family: 'Amatic SC', cursive;
+}
